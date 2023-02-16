@@ -1,0 +1,15 @@
+node_modules
+dist
+*.zip
+.idea
+.DS_Store
+process.yml
+.vscode
+.next
+.env
+.env.*
+!.env.local.sample
+.docusaurus
+build/
+examples/next/getting-started/package-lock.json
+faustjs.code-workspace
